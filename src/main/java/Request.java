@@ -1,8 +1,0 @@
-/**
- * Request
- */
-public class Request {
-
-    
-    
-}
